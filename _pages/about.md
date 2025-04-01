@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in GSDS, Seoul National University (current)
-* M.S. in Chung-ang University, 2020
-* B.A. in University of Michigan, 2016
+* Ph.D in Data Science, GSDS Seoul National University (current)
+* M.S. in Economics, Chung-ang University, 2020
+* B.A. in Economics, University of Michigan, 2016
 
 Work experience
 ======
