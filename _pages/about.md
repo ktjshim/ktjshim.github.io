@@ -1,18 +1,19 @@
 ---
 permalink: /
-title: "Joseph's Homepage"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+<br>
+<br>
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in GSDS, Seoul National University (current)
+* M.S. in Chung-ang University, 2020
+* B.A. in University of Michigan, 2016
 
 Work experience
 ======
