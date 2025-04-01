@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<br>
+
 Education
 ======
 * Ph.D in Data Science, GSDS Seoul National University (current)
@@ -14,6 +14,7 @@ Education
 * B.A. in Economics, University of Michigan, 2016
 
 <br>
+
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
